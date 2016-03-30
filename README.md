@@ -1,2 +1,2 @@
 # primerrepositorio
-Craga del primer repositorio en github
+Carga del primer repositorio en github
